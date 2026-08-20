@@ -1,6 +1,6 @@
 # Server-Clone
 
-<pre> bash <(curl -fsSL https://raw.githubusercontent.com/therynzo/Server-Clone/main/run.sh) </pre>
+<pre>bash <(curl -fsSL https://raw.githubusercontent.com/therynzo/Server-Clone/main/run.sh)</pre>
 
 **INFO:**
 
