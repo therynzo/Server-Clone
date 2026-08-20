@@ -1,2 +1,2 @@
 # Server-Clone
-```https://github.com/therynzo/Server-Clone/blob/main/run.sh```
+````bash <(curl -fsSL https://raw.githubusercontent.com/therynzo/Server-Clone/main/run.sh)````
